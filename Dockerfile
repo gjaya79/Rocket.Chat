@@ -21,7 +21,7 @@ RUN apt-install python build-essential
 ADD . /app
 WORKDIR /app
 
-RUN meteor build --directory .
+RUN meteor build --server=http://162.243.56.103:3000 --directory .
 
 WORKDIR /app/bundle/programs/server
 RUN  npm install
