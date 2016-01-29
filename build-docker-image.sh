@@ -1,0 +1,1 @@
+docker build -t gjaya79/rocket.chat:latest .
