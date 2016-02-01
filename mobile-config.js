@@ -3,9 +3,9 @@
 App.info({
 	id: 'com.konecty.rocket.chat',
 	version: '0.1.5',
-	name: 'Rocket.Chat',
-	description: 'Rocket.Chat',
-	author: 'Rocket.Chat Development Group',
+	name: 'Cilicon',
+	description: 'Cilicon Chat App',
+	author: 'Cilicon Development Team',
 	email: 'contact@rocket.chat',
 	website: 'https://rocket.chat'
 });
